@@ -1,0 +1,14 @@
+name: kutt
+version: 0.1.0
+
+authors:
+  - Chris Watzon <cawatson1993@gmail.com>
+
+dependencies:
+  halite:
+    github: icyleaf/halite
+    branch: master
+
+crystal: 0.33.0
+
+license: MIT
